@@ -1,0 +1,12 @@
+agent_name = "deepsearch"
+region     = "us-west-2"
+
+environment_variables = {
+  LOG_LEVEL = "INFO"
+}
+
+tags = {
+  Environment = "dev"
+  Project     = "deepsearch"
+}
+
