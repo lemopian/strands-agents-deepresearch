@@ -31,6 +31,9 @@ This project provides a multi-agent research system that:
    │  Claude  │        │  Linkup/ │         │    S3    │
    │  Models  │        │  Tavily  │         │ Outputs  │
    └──────────┘        └──────────┘         └──────────┘
+## Langfuse traces Examples
+<img width="1688" height="1642" alt="image" src="https://github.com/user-attachments/assets/27bfe4f7-0b0b-4af3-82d2-ccab01ff3a92" />
+
 ```
 
 ## Project Structure
