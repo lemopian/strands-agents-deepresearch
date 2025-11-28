@@ -13,7 +13,7 @@ This project provides a multi-agent research system that:
 - Stores research outputs in S3
 
 ## Architecture
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/a9531447-de62-4b3a-befd-eb0a9ea34f99" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b0d39c63-d02d-486a-aeb6-125263768202" />
 
 ## Langfuse traces Example
 <img width="1688" height="1642" alt="image" src="https://github.com/user-attachments/assets/27bfe4f7-0b0b-4af3-82d2-ccab01ff3a92" />
