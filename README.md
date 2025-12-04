@@ -1,6 +1,6 @@
-# Strands Agents DeepResearch
+# Strands Agents Deep Agent Research
 
-A production-ready deep research agent powered by [Strands DeepAgents](https://strandsagents.com/), deployed on AWS Bedrock AgentCore.
+A production-ready deep research agent powered by [Strands DeepAgents](https://strandsagents.com/), deployed on AWS Bedrock AgentCore using Terraform.
 
 ## Overview
 
